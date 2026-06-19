@@ -8,13 +8,13 @@ This tool allows users to upload any CSV dataset and instantly perform basic dat
 
 ## Live Demo
 
-**Live App:** [Paste Streamlit Link Here]
+**Live App:** https://interactive-eda-tool-190626.streamlit.app/
 
 ---
 
 ## GitHub Repository
 
-**Repository:** [Paste GitHub Repository Link Here]
+**Repository:** https://github.com/Shauryagupta4/interactive-eda-tool
 
 ---
 
