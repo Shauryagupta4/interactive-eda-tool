@@ -114,6 +114,7 @@ interactive-eda-tool/
 ├── app.py
 ├── requirements.txt
 ├── README.md
+├── screenshots/
 ```
 
 ---
